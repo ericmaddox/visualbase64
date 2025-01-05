@@ -1,5 +1,12 @@
 # VisualBase64
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Tkinter](https://img.shields.io/badge/Tkinter-Installed-brightgreen)
+![License](https://img.shields.io/github/license/ericmaddox/visualbase64)
+![Issues](https://img.shields.io/github/issues/ericmaddox/visualbase64)
+![Last Commit](https://img.shields.io/github/last-commit/ericmaddox/visualbase64)
+
+
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
