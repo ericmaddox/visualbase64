@@ -1,6 +1,20 @@
 # VisualBase64
 
-A sleek and professional tool for converting images to Base64 strings with ease. Drag, drop, encode, and copy—**VisualBase64** makes it simple.
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      A sleek and professional tool for converting images to Base64 strings with ease. Drag, drop, encode, and copy—<b>VisualBase64</b> makes it simple.
+    </td>
+    <td>
+      <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## Overview
 
@@ -59,7 +73,16 @@ Follow these steps to get your development environment set up:
 
 ## Screenshots
 
-*[TO BE DONE - ADD SCREENSHOTS HERE]*
+<table>
+  <tr>
+    <td><img src="https://github.com/ericmaddox/visualbase64/blob/main/media/example_image1.JPG" width="400"/></td>
+    <td><img src="https://github.com/ericmaddox/visualbase64/blob/main/media/example_image3.JPG" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ericmaddox/visualbase64/blob/main/media/example_image2.JPG" width="400"/></td>
+    <td><img src="https://github.com/ericmaddox/visualbase64/blob/main/media/example_image4.JPG" width="400"/></td>
+  </tr>
+</table>
 
 ## License
 
